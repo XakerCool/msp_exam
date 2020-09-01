@@ -1,0 +1,7 @@
+C:\Users\xaker\source\repos\msp_exam\msp_exam\bin\Debug\msp_exam.exe.config
+C:\Users\xaker\source\repos\msp_exam\msp_exam\bin\Debug\msp_exam.exe
+C:\Users\xaker\source\repos\msp_exam\msp_exam\bin\Debug\msp_exam.pdb
+C:\Users\xaker\source\repos\msp_exam\msp_exam\obj\Debug\msp_exam.csprojAssemblyReference.cache
+C:\Users\xaker\source\repos\msp_exam\msp_exam\obj\Debug\msp_exam.csproj.CoreCompileInputs.cache
+C:\Users\xaker\source\repos\msp_exam\msp_exam\obj\Debug\msp_exam.exe
+C:\Users\xaker\source\repos\msp_exam\msp_exam\obj\Debug\msp_exam.pdb
